@@ -1,4 +1,4 @@
-# map-echarts
+# echarts-map
 
 基于 vue、echarts 集合而成的省市地图切换或者下钻（辽宁）
 
